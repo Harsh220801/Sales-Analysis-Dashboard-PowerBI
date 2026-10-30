@@ -16,6 +16,7 @@ Dashboard
 ![Uploading image.png…]()
 
 
+
 Dashboard Insights
 Key Performance Indicators (KPIs): Total Profit, Total Sales, Total Quantity, Profit Margin%
 
