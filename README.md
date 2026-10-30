@@ -13,7 +13,8 @@ Microsoft Power BI
 Power Query
 DAX Query
 Dashboard
-Ecommerce_Sales_Insights_page-0001
+![Uploading image.png…]()
+
 
 Dashboard Insights
 Key Performance Indicators (KPIs): Total Profit, Total Sales, Total Quantity, Profit Margin%
